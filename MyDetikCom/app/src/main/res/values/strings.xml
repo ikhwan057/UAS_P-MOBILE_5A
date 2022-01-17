@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Detik Com</string>
+    <string name="title_home">Home</string>
+    <string name="title_layanan">Layanan</string>
+    <string name="title_kategori">Kategori</string>
+    <string name="title_video">Video</string>
+</resources>
